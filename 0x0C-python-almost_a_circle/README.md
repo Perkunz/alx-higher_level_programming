@@ -9,8 +9,8 @@ This project is a combination of all the concepts that I have learnt in python s
 	<li> args and kwargs </li>
 	<li> Read/write file </li>
 	<li> Unittest </li>
-	<li> Inheritance <li>
-	<li> Static method <li>
+	<li> Inheritance </li>
+	<li> Static method </li>
         <li> Class method </li>
         <li> Getter/Setter </li>
         <li> Private attribute </li>
